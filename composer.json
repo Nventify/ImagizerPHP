@@ -1,0 +1,23 @@
+{
+    "name": "nventify/imagizer-php",
+    "description": "The official PHP Client for the Imagizer Media Engine",
+    "autoload": {
+        "psr-4": {
+            "Imagizer\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "5.5"
+    },
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Nicholas Pettas",
+            "email": "nick@nventify.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
