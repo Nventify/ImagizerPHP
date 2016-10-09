@@ -1,7 +1,7 @@
 # ImagizerPHP
 The official PHP Client for the Imagizer Media Engine
 
-The Imagizer Media Engine accelerates media delivery to your mobile Apps or Webpages by dynamically rescaling, cropping, and compressing images in real time. See all Imagizer features in our doc.
+The Imagizer Media Engine accelerates media delivery to your mobile Apps or Webpages by dynamically rescaling, cropping, and compressing images in real time. See all Imagizer features in our [Doc](http://demo.imagizercdn.com/doc).
 
 ## Installation
 ### Using Composer
@@ -64,4 +64,3 @@ $imageUrl2 = $imagizerClient->buildUrl("image.jpg", [
     "quality" => 55
 ]);
 ```
-
